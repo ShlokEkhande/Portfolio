@@ -73,7 +73,7 @@ export const ContactUs = () => {
         <div className="flex justify-center mt-16 gap-5">
           <a href="https://www.linkedin.com/in/shlok-ekhande/">
             <img
-              src="src\assets\linkedin.png"
+              src="linkedin.png"
               alt="LinkedIn"
               width={40}
               className="hover:-mt-1.5 transition-all duration-200"
@@ -81,7 +81,7 @@ export const ContactUs = () => {
           </a>
           <a href="https://www.instagram.com/iamshlok_01/">
             <img
-              src="src\assets\ig.png"
+              src="ig.png"
               alt="Instagram"
               width={40}
               className="hover:-mt-1.5 transition-all duration-200"
@@ -89,7 +89,7 @@ export const ContactUs = () => {
           </a>
           <a href="https://github.com/ShlokEkhande">
             <img
-              src="src\assets\github.png"
+              src="github.png"
               alt="GitHub"
               width={40}
               className="hover:-mt-1.5 transition-all duration-200"
